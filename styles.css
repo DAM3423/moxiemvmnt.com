@@ -27,7 +27,7 @@ body {
     overflow-x: hidden;
 }
 
-button {
+a {
     background: none;
     border: 2px solid var(--primary);
     color: #fff;
@@ -111,11 +111,6 @@ h4 {
 
 #welcome p {
     grid-column: 2/8;
-    margin: 20px;
-}
-
-#welcome button {
-    grid-column: 4/6;
     margin: 20px;
 }
 
